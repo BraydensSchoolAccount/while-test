@@ -1,0 +1,1 @@
+1. Previous number value was 12, making the while loop condition invalid and skipping it
